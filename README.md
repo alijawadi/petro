@@ -28,3 +28,4 @@ To set up the project all you need is to run:
 ```shell
 bash local_setup.sh
 ```
+Then open the following link in you browser http://localhost:8000
